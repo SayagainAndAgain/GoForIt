@@ -1,0 +1,43 @@
+	body{
+		/*text-align: center;*/
+		background-color: #EFEFEF;
+		font-size: 18px;
+	}
+	.paper{
+		box-sizing: border-box;
+		text-align: left;
+		display: table;
+    	margin: 4px auto;
+    	width:513px;
+    	height:751px;
+    	border:1px solid grey;
+    	padding:0px 50px 0px 50px;
+    	background-color: white;
+	}
+	h1{
+		font-size: 22px;
+		text-align: center;
+		margin: 46px 0px 20px 0px;
+	}
+	img{
+		display: block;
+    	margin: 0 auto;
+    	height: 130px;
+	}
+	p{
+		margin: 10px 13px 17px 13px;
+	}
+	ul{
+		padding: 7px 0px 0px 37px;
+	}
+	li{
+		padding: 5px 0px 0px 0px;
+	}
+	br{
+		line-height: 150%;
+	}
+	
+	.info{
+		padding: 15px 0px 0px 0px;
+		border-top:1px solid grey; 
+	}
